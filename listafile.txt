@@ -1,0 +1,18 @@
+30/09/2021  09:16    <DIR>          .
+30/09/2021  09:16    <DIR>          ..
+02/10/2021  10:28    <DIR>          .eclipse
+11/10/2021  12:58    <DIR>          .VirtualBox
+30/09/2021  09:16    <DIR>          3D Objects
+30/09/2021  09:16    <DIR>          Contacts
+16/10/2021  12:24    <DIR>          Desktop
+30/09/2021  09:16    <DIR>          Documents
+02/10/2021  09:24    <DIR>          Downloads
+30/09/2021  09:16    <DIR>          Favorites
+30/09/2021  09:16    <DIR>          Links
+30/09/2021  09:16    <DIR>          Music
+23/09/2021  09:33    <DIR>          OneDrive
+30/09/2021  09:16    <DIR>          Pictures
+30/09/2021  09:16    <DIR>          Saved Games
+30/09/2021  09:16    <DIR>          Searches
+30/09/2021  09:16    <DIR>          Videos
+02/10/2021  10:28    <DIR>          workspace
